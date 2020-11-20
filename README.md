@@ -1,2 +1,2 @@
 # znationrp
-Informative site for zNation - Role Play Server
+Informative page for zNation - Role Play Server
